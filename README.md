@@ -30,7 +30,6 @@
   - [Ορθοεικόνες - Βασικοί χάρτες - Κάλυψη γης](http://geodata.gov.gr/group/imagery-base-maps-earth-cover)
   - [Όρια](http://geodata.gov.gr/group/boundaries)
   - [Περιβάλλον](http://geodata.gov.gr/group/environment)
-  - ~~Στρατιωτικές πληροφορίες~~
   - [Υγεία](http://geodata.gov.gr/group/health)
   - [Υψομετρία](http://geodata.gov.gr/group/elevation)
   - [Χωροταξία - Κλιματολόγιο](http://geodata.gov.gr/group/planning-cadastre)
