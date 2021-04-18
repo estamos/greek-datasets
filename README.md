@@ -14,25 +14,26 @@
   - Υγεία (Φάρμακα, νοσοκομεία, τρόφιμα, αλκοόλ)
   
 - Το http://geodata.gov.gr/ το οποίο προσφέρει ανοικτά γεωχωρικά δεδομένα και υπηρεσίες για την Ελλάδα και διαθέτει 248 σύνολα δεδομένων για τις ακολουθες 19 θεματικές περιοχές :
-  - Βιόκοσμος 
-  - Γεωγραφική θέση
-  - Γεωεπιστημονικές πληροφορίες
-  - Γεωργία
-  - Επιχειρρήσεις κοινής ωφελείας - Επικοινωνία
-  - Εσωτερικά ύδατα
-  - Θάλασσες
-  - Κατασκευές
-  - Κλιματολογία - Μετεωρολογία - Ατμόσφαιρα
-  - Κοινωνία
-  - Μεταφορές
-  - Οικονομία
-  - Ορθοεικόνες - Βασικοί χάρτες - Κάλυψη γης
-  - Όρια
-  - Περιβάλλον
+
+  - [Βιόκοσμος](http://geodata.gov.gr/group/biota)
+  - [Γεωγραφική θέση](http://geodata.gov.gr/group/location)
+  - [Γεωεπιστημονικές πληροφορίες](http://geodata.gov.gr/group/geoscientific-information)
+  - [Γεωργία](http://geodata.gov.gr/group/farming)
+  - [Επιχειρρήσεις κοινής ωφελείας - Επικοινωνία](http://geodata.gov.gr/group/utilities-communication)
+  - [Εσωτερικά ύδατα](http://geodata.gov.gr/group/inland-waters)
+  - [Θάλασσες](http://geodata.gov.gr/group/oceans)
+  - [Κατασκευές](http://geodata.gov.gr/group/structure)
+  - [Κλιματολογία - Μετεωρολογία - Ατμόσφαιρα](http://geodata.gov.gr/group/climatology-meteorology-atmosphere)
+  - [Κοινωνία](http://geodata.gov.gr/group/society)
+  - [Μεταφορές](http://geodata.gov.gr/group/transportation)
+  - [Οικονομία](http://geodata.gov.gr/group/economy)
+  - [Ορθοεικόνες - Βασικοί χάρτες - Κάλυψη γης](http://geodata.gov.gr/group/imagery-base-maps-earth-cover)
+  - [Όρια](http://geodata.gov.gr/group/boundaries)
+  - [Περιβάλλον](http://geodata.gov.gr/group/environment)
   - ~~Στρατιωτικές πληροφορίες~~
-  - Υγεία
-  - Υψομετρία
-  - Χωροταξία - Κλιματολόγιο
+  - [Υγεία](http://geodata.gov.gr/group/health)
+  - [Υψομετρία](http://geodata.gov.gr/group/elevation)
+  - [Χωροταξία - Κλιματολόγιο](http://geodata.gov.gr/group/planning-cadastre)
 
 
 ## Αναζητήστε δεδομένα δημοσιευμένα από την κεντρική διοίκηση, οργανισμούς τοπικής αυτοδιοίκησης και άλλες υπηρεσίες
