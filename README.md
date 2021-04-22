@@ -4,6 +4,7 @@
 :-----|:--------------|:----------------:|
 [data.gov.gr](https://data.gov.gr/) | Ελληνική Δημοκρατία - Κυβέρνηση | 47
 [geodata.gov.gr](http://geodata.gov.gr/) | ΙΠΣΥ/ΕΚ «Αθηνά» | 248
+[elwiki dump](https://dumps.wikimedia.org/elwiki/) | ελληνόφωνη Βικιπαίδεια | ~
 
 Κύριες πηγές δεδομένων αποτελούν οι ακόλουθες :
 
@@ -39,3 +40,5 @@
   - [Υγεία](http://geodata.gov.gr/group/health)
   - [Υψομετρία](http://geodata.gov.gr/group/elevation)
   - [Χωροταξία - Κλιματολόγιο](http://geodata.gov.gr/group/planning-cadastre)
+
+- Το https://dumps.wikimedia.org/elwiki/ είναι η βάση δεδομένων της ελληνόφωνης Βικιπαίδειας και διαθέτει δεδομένα σχετικά με τα άρθρα, πρότυπα, περιγραφές μέσων / αρχείων αυτής και μεταδεδομένα.
